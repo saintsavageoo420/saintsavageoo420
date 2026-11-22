@@ -1,16 +1,13 @@
-## Hi there 👋
+## saintsavageoo420 — nice to meet you 👋
 
-<!--
-**saintsavageoo420/saintsavageoo420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Singapore.
 
-Here are some ideas to get you started:
+- ☕ Powered by coffee and late-night commits
+- 🎯 This year's goal: ship something every month
+- 👯 Open to collaborating on open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=saintsavageoo420&theme=synthwave&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saintsavageoo420&hide_border=true&theme=synthwave" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/TypeScript-fb923c?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-fb923c?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/React-fb923c?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/FastAPI-fb923c?style=for-the-badge&logoColor=white" alt="FastAPI" />
